@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(79, 150, 231);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 0;
+}
+
+#container {
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    padding: 10px 10px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.btn {
+    border: 0;
+    height: 20px;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/index.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <form>
+            <p>
+                <label>Número da rêsidencia: </label>
+                <input type="number" name="numberOfHome" id="numberOfHome">
+            </p>
+            <p>
+                <label>Bairro: </label>
+                <input type="text" name="bairro" id="bairro">
+            </p>
+            <p>
+                <label>Cidade: </label>
+                <input type="text" name="city" id="city">
+            </p>
+            <p>
+                <label>Área da casa</label>
+                <input type="number" name="areaDaCasa" id="areaDaCasa">
+            </p>
+        </form>
+        <button class="btn" onclick="adicionar()">Adicionar</button>
+        <button class='btn'onclick="remover()">Remover</button>
+        <div id="res">
+        </div>
+    </div>
+</body>
+</html>
