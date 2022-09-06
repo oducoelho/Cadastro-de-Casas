@@ -12,7 +12,7 @@ Uma aplicação em javacrit, com intuito de adicionar especificações de um end
 * JavaScript;
 
 ## :rocket: Rodando o projeto
-Project link: https://oducoelho.github.io/Calculadora/
+Project link: https://oducoelho.github.io/Cadastro-de-Casas/
 
 ## :handshake: Colaboradores
 <table>
